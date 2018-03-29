@@ -1,6 +1,11 @@
-# VSCode Power User
+# [Visual Studio Code Power User](https://VSCode.pro)
 
 This repo is going to host the course and excercise material for [VSCode.pro](https://VSCode.pro) course.
+
+[![VSCode.pro](https://vscode.pro/img/pictures/vscode-power-user-learn-course.jpg)](https://VSCode.pro)
+
+## [VS Code Power User](https://VSCode.pro)
+
 
 ```sh
 ____   ______________________            .___
@@ -10,5 +15,3 @@ ____   ______________________            .___
    \___/ /_______  / \______  /\____/\____ |\___  > /\ |   __/|__|   \____/
                  \/         \/            \/    \/  \/ |__|
 ```
-
-[![VSCode.pro](https://vscode.pro/img/pictures/vscode-power-user-learn-course.jpg)](https://VSCode.pro)
